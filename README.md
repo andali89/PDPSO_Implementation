@@ -3,7 +3,7 @@
 This is an implementation of a discrete particle swarm optimizaiton algorithm 
 called PDPSO for product portfolio planning problems. The algorithm adopts a 
 probability-based solution updating mechanism and a solution reparing strategy
-for improving the performance of the algorithm is used. For a detailed description of the PDPSO algorihtm
+to improve the performance. For a detailed description of the PDPSO algorihtm
 please refer to 
 
 
