@@ -1,0 +1,13 @@
+LSL,45,,,,,,,,
+beta ,0.004,,,,,,,,
+maxProdNum,5,,,,,,,,
+muP,1,,,,,,,,
+AttrNum,9,,,,,,,,
+numlevels,9,3,4,4,3,3,2,2,9
+Prices,800,1000,1200,1500,2000,2200,2500,3000,3500
+numSeg,3,,,,,,,,
+SegSize,150,200,250,,,,,,
+Competetive Product Num,2,,,,,,,,
+Product 1,7,3,4,3,2,1,1,2,3
+Product 2,9,2,4,3,3,3,2,1,2
+AttrIndex,0,,,,,,,,
